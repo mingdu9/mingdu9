@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SpringBoot, AWS**
 
-- 📝 I irregularly write articles on [https://velog.io/@min035759](https://velog.io/@min035759)
+- 📝 I irregularly write articles on [my velog](https://velog.io/@min035759)
 
 - 💬 Ask me about **java, Spring**
 
