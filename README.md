@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mingdu</h1>
-<h3 align="center">A backend developer from 🇰🇷 alway wondering 🤔</h3>
+<h3 align="center">A backend developer from 🇰🇷 always wondering 🤔</h3>
 
 - 🌱 I’m currently learning **SpringBoot, AWS**
 
