@@ -5,7 +5,7 @@
 
 - 📝 I irregularly write articles on [my velog](https://velog.io/@min035759)
 
-- 💬 Ask me about **java, Spring**
+- 💬 Ask me about **Java, Spring**
 
 - 📫 How to reach me **ku.minjoo9@gmail.com**
 
